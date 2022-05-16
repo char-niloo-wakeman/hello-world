@@ -14,7 +14,7 @@ I've been reading Nietzsche lately, so I've been considering my own place in the
 
 Sometimes I worry that I'm subconsciously afraid of life, and that fear makes me a passive observer of my own existence. I worry that my fate is only to be hurt and to hurt others. Nietzsche believes that we should love our fate, but it's harder than it sounds.
 # HOWEVER
-Maybe I'm misinterpreting something. ==His writing can be a bit incomprehensible.==
+Maybe I'm misinterpreting something. His writing can be a bit *incomprehensible.*
 Here is an unordered list of philosophers that are easier to read:
 - Schopenhauer
 - Descartes
