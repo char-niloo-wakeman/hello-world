@@ -7,7 +7,7 @@ I enjoy:
 2. Classical music.
 3. Strong, black coffee.
 ---
-Today's date is May 15th, 2022. It is 9:42pm as I type this sentence, and I am making a *strong* commitment to becoming a software developer.
+Today's date is May 15th, 2022. It is 9:42pm as I type this sentence, and I am making a *strong* commitment to learning how to program.
 ## What Is On My Mind Today?
 I've been reading Nietzsche lately, so I've been considering my own place in the world a lot. Do I **worship** death? Am I not living my life to the fullest because the modern world has conditioned me to nihilism?
 > "Death is close enough at hand so we do not need to be afraid of life."
